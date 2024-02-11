@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.ul-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.image-container {
+  background-color: #323f4b;
+  width: 40vw;
+}
+
+.main-bg {
+  background-color: #ffffff;
+}
+
+.heading {
+  margin-left: 50px;
+  padding-top: 30px;
+}
+
+.main-bg {
+  display: flex;
+}

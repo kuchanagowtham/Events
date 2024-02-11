@@ -1,0 +1,82 @@
+/* Write your CSS here */
+.pera {
+  color: black;
+}
+.registered-image {
+  height: 100px;
+  width: 100px;
+}
+
+.registered-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 250px;
+  width: 400px;
+  margin-left: 50px;
+}
+.register-heading {
+  color: #475569;
+  font-size: 30px;
+}
+
+.viewItem-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.yet-to-register-icon {
+  height: 400px;
+  width: 400px;
+}
+
+.yetTo-registered-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.yetToRegister-heading {
+  color: #475569;
+  font-size: 20px;
+}
+.r-button {
+  width: 400px;
+  height: 50px;
+  background-color: #0967d2;
+  font-size: 15px;
+  font-weight: 400;
+  border: none;
+  outline: none;
+}
+
+.registrations-closed {
+  height: 300px;
+  width: 300px;
+}
+
+.registerationClosed-heading {
+  color: #475569;
+  font-size: 20px;
+  text-align: center;
+}
+
+.registrationClosedContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+
+  margin-left: 50px;
+}
